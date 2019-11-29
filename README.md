@@ -1,1 +1,1 @@
-# DCGANs
+Pytorch implementation of DCGANS
